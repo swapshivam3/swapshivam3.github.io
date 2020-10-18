@@ -25,10 +25,10 @@ sidebar:
     
     languages:
       - idiom: English
-      : Professional
+        level: Professional
 
       - idiom: Hindi
-      : Native
+        level: Native
 
     interests:
       - item: Gaming
@@ -127,18 +127,17 @@ skills:
     toolset:
       - name: Python & Django
       
-
       - name: Javascript & jQuery
-      
+        
 
       - name: Angular
-      
+     
 
       - name: HTML5 & CSS
-     
+      
 
       - name: Ruby on Rails
-     
+        
 
       - name: Sketch & Photoshop
      
