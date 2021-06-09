@@ -3,58 +3,57 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Swapnil Shivam
-    tagline: Computer Science Student
-    avatar: profile.png  
+  # Profile information
+  name: Swapnil Shivam
+  tagline: Computer Science Student
+  avatar: profile.jpg
 
-    # Sidebar links
-    email: swapshivam3@gmail.com
-    website: swapshivam3.github.io #do not add http://
-    #linkedin: swapshivam3
-    github: swapshivam3
-#    telegram: # add your nickname without '@' sign
+  # Sidebar links
+  email: swapshivam3@gmail.com
+  website: swapshivam3.github.io #do not add http://
+  #linkedin: swapshivam3
+  github: swapshivam3
+  #    telegram: # add your nickname without '@' sign
   #  gitlab:
   #  bitbucket:
-    twitter: '@06xus0'
-   # stack-overflow: # Number/Username, e.g. 123456/alandoe
-   # codewars:
-    
-    languages:
-      - idiom: English
-        level: Professional
+  twitter: "@06xus0"
+  # stack-overflow: # Number/Username, e.g. 123456/alandoe
+  # codewars:
 
-      - idiom: Hindi
-        level: Native
+  languages:
+    - idiom: English
+      level: Professional
 
-    interests:
-      - item: Gaming
-        link:
+    - idiom: Hindi
+      level: Native
 
-      - item: Music       
-        link:
+  interests:
+    - item: Gaming
+      link:
 
-     
+    - item: Music
+      link:
+
 career-profile:
-    title: Introduction
-    summary: |
-      Hey! I am Swapnil Shivam, majoring in Computer Science and Engineering from Birla Institute of Technology and Science, Pilani.
+  title: Introduction
+  summary: |
+    Hey! I am Swapnil Shivam, majoring in Computer Science and Engineering from Birla Institute of Technology and Science, Pilani.
 
 education:
-    - degree: School
-      university: St. Josephs's Co-Ed School, CBSE
-      time: 2008-2018
-      details: |
-        Score-97.8% 
-          
-    - degree: High School
-      university: St. Josephs's Co-Ed School, CBSE
-      time: 2018 - 2020
-      details: |
-        Score-96.4%, PCM with CS(C++)
+  - degree: School
+    university: St. Josephs's Co-Ed School, CBSE
+    time: 2008-2018
+    details: |
+      Score-97.8%
+
+  - degree: High School
+    university: St. Josephs's Co-Ed School, CBSE
+    time: 2018 - 2020
+    details: |
+      Score-96.4%, PCM with CS(C++)
 
 #         experiences:
 #     - role: Lead Developer
@@ -95,7 +94,7 @@ education:
 #           - Bullet point
 #           - Bullet point
 # projects:
-#     title: Projects
+# title: Projects
 #     intro: >
 #       You can list your side projects or open source libraries in this
 #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -122,23 +121,13 @@ education:
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp;
 
-    toolset:
-      - name: Python & Django
-      
-      - name: Javascript & jQuery
-        
+  toolset:
+    - name: Python & Django
 
-      - name: Angular
-     
+    - name: Javascript & jQuery
 
-      - name: HTML5 & CSS
-      
+    - name: HTML5 & CSS
 
-      - name: Ruby on Rails
-        
-
-      - name: Sketch & Photoshop
-     
-
+    - name: React
